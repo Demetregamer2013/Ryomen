@@ -1,6 +1,6 @@
 body{
     text-align: center;
-    
+    margin: auto;
     
 }
 
@@ -12,6 +12,8 @@ body{
     border-top: red solid 5px;
     border-bottom: blue solid 5px;
     border-radius: 10px;
+  
+   
 }
 
 
@@ -22,7 +24,8 @@ body{
     border-top: red solid 5px;
     border-bottom: blue solid 5px;
     border-radius: 10px;
-   margin-left: 10px;
+    margin-left: 10px;
+   
 }
 
 .img3{
@@ -33,11 +36,13 @@ body{
     border-bottom: blue solid 5px;
     border-radius: 10px;
     margin-left: 10px;
+    
 }
 
 .div1{
     display: flex;
-
+    margin: auto;
+    justify-content: center;
 }
 
 
